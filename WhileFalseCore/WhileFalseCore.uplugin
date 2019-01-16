@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "While False - Core",
+	"Description": "Core stuff",
+	"Category": "While False",
+	"CreatedBy": "While False Studios",
+	"CreatedByURL": "http://whilefalsestudios.com",
+	"DocsURL": "https://github.com/WhileFalseStudios/unreal-wfs",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WhileFalseCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
